@@ -1,0 +1,3 @@
+local a = ("you not gonna deobsucate this script brooo")
+loadstring(game:HttpGet('https://pastebin.com/raw/0WG4jkAB'))()
+print(a)
