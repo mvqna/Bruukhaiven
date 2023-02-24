@@ -1,0 +1,3 @@
+-- Brookhaven script
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DoniTwT/Bruukhaiven/main/shitty%20script'))()
